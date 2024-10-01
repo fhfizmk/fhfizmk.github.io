@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fhfizmk.github.io/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/app/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/assets/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/css/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/data/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/includes/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/item/sitemap.html.gz
+Sitemap: https://fhfizmk.github.io/src/sitemap.html.gz
